@@ -1,0 +1,7 @@
+{"input": "", "expect": "", "task": "run-length-encoding", "lang": "python"}
+{"input": "XYZ", "expect": "XYZ", "task": "run-length-encoding", "lang": "python"}
+{"input": "AABBBCCCC", "expect": "2A3B4C", "task": "run-length-encoding", "lang": "python"}
+{"input": "WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWB", "expect": "12WB12W3B24WB", "task": "run-length-encoding", "lang": "python"}
+{"input": "  hsqq qww  ", "expect": "2 hs2q q2w2 ", "task": "run-length-encoding", "lang": "python"}
+{"input": "aabbbcccc", "expect": "2a3b4c", "task": "run-length-encoding", "lang": "python"}
+{"input": "zzz ZZ  zZ", "expect": "3z 2Z2 zZ", "task": "run-length-encoding", "lang": "python"}
